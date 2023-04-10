@@ -1,5 +1,7 @@
 git status
-git add / git add.
-git commit -m "message"
+git add / git add. (#add all file) | into staging area.  
+git commit -m "message"            | push into repository.
 git log 
-git diff filename.extension
+git diff filename.ext
+git checkout filename.ext          |roll back file from repository to working directory.
+
